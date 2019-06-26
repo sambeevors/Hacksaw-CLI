@@ -1,5 +1,5 @@
 {
-  "name": "hacksaw",
+  "name": "@sambeevors/hacksaw",
   "version": "0.0.1",
   "description": "Jigsaw + Tailwind + Babel",
   "main": "index.js",

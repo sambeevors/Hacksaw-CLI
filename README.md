@@ -3,11 +3,11 @@
 Install globally with npm or yarn
 
 ```shell
-npm i -g hacksaw
+npm i -g @sambeevors/hacksaw
 ```
 
 ```shell
-yarn global add hacksaw
+yarn global add @sambeevors/hacksaw
 ```
 
 Then run hacksaw command, passing the desired directory name
