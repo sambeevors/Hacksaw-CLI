@@ -1,0 +1,30 @@
+{
+  "name": "hacksaw",
+  "version": "0.0.1",
+  "description": "Jigsaw + Tailwind + Babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@sambeevors",
+  "license": "MIT",
+  "bin": {
+    "hacksaw": "./index.js"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "@octokit/rest": "^14.0.9",
+    "chalk": "^2.4.2",
+    "clear": "0.0.1",
+    "clui": "^0.3.6",
+    "configstore": "^3.1.2",
+    "figlet": "^1.2.3",
+    "inquirer": "^5.2.0",
+    "lodash": "^4.17.11",
+    "minimist": "^1.2.0",
+    "simple-git": "^1.116.0",
+    "touch": "^3.1.0"
+  }
+}
